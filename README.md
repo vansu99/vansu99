@@ -4,8 +4,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/github/followers/vansu99?style=social)
 
-
-## Languages
+ 
+## Languages 💪
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
