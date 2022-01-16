@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 ## Connect with me
 ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https://www.facebook.com/tran.vansu.7169)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansu99&show_icons=true&theme=buefy)
 
 **Thanks for visiting my Github 💪**
