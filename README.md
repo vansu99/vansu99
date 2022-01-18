@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <a href="mailto:vansutran99@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansu99&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vansu99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Thanks for visiting my Github 💪**
