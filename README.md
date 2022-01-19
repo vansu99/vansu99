@@ -1,5 +1,7 @@
 # Hi, I'm Su 👋
 
+🌱 I’m currently learning Flutter
+
 Here are some ideas to get you started:
 
 ![](https://img.shields.io/github/followers/vansu99?style=social)
