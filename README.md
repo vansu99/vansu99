@@ -1,6 +1,6 @@
 # Hi, I'm Su 👋
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning Graphql, Docker, Flutter
 
 Here are some ideas to get you started:
 
