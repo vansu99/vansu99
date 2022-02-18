@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning NextJS, Graphql, Docker, Flutter
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/fXsfNy8saoEgMo0Nc9/giphy.gif" width="350px" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/fXsfNy8saoEgMo0Nc9/giphy.gif" width="300px" />
 
 Here are some ideas to get you started:
 
