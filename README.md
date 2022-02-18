@@ -2,9 +2,12 @@
 
 🌱 I’m currently learning NextJS, Graphql, Docker, Flutter
 
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/fXsfNy8saoEgMo0Nc9/giphy.gif" width="350px" />
+
 Here are some ideas to get you started:
 
 ![](https://img.shields.io/github/followers/vansu99?style=social)
+![](https://komarev.com/ghpvc/?username=vansu99)
 
  
 ## Languages 💪
