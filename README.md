@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Su</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-🌱 I’m currently learning NextJS, Graphql, Docker, Flutter
+🌱 I’m currently learning Golang, Docker, Flutter
 
 ![](https://img.shields.io/github/followers/vansu99?style=social)
 ![](https://komarev.com/ghpvc/?username=vansu99)
