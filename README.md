@@ -31,4 +31,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansu99&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vansu99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**Thanks for visiting my Github 💪**
+**Thanks for visiting my Github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
