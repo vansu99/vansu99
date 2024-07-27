@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Su</h1>
+<h1 align="center">Hi 👋, I'm Su <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-🌱 I’m currently learning Golang, Docker, AWS
 
 ![](https://img.shields.io/github/followers/vansu99?style=social)
 ![](https://komarev.com/ghpvc/?username=vansu99)
